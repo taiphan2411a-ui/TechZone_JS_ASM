@@ -4,7 +4,7 @@ Website thương mại điện tử laptop, chạy hoàn toàn phía client (HTM
 
 ## Xem website
 
-Bản công khai: xem mục **GitHub Pages** ở phần cài đặt repository (Settings → Pages).
+**Bản công khai: https://taiphan2411a-ui.github.io/TechZone_JS_ASM/**
 
 Chạy trên máy tính, chỉ cần một web server tĩnh bất kỳ:
 
