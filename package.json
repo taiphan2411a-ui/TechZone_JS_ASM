@@ -1,0 +1,16 @@
+{
+  "name": "techzone-js-asm",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently \"npm:api\" \"npm:web\"",
+    "api": "json-server --watch db.json --host 0.0.0.0 --port 3000",
+    "web": "vite --host 0.0.0.0"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4",
+    "vite": "^5.4.14",
+    "concurrently": "^9.1.2"
+  }
+}
